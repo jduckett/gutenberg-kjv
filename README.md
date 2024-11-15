@@ -17,7 +17,7 @@ I'm a retired programmer and this is just a quick project that I thought someone
 
 # environment
 
-My development environment is liunx. I'm not and never was a python developer. I simply chose python cuz I thought it would be quick and common to most developers.  you may have to tweak the main script to get it to run.
+My development environment is linux. I'm not and never was a python developer. I simply chose python cuz I thought it would be quick and common to most developers.  you may have to tweak the main script to get it to run. I did my best to stick to standard python libraries.
 
 I am running python3 and I made the script executable (i think).
 
