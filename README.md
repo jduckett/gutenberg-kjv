@@ -28,4 +28,13 @@ I am running python3 and I made the script executable (i think).
 
 ./build.py
 
+# words list
+
+the following script will build word lists of every word in the KJV bible.
+
+./build-words.py
+
+
+
+
 Hope this helps someone.
